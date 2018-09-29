@@ -1,0 +1,20 @@
+delito|ID
+Homicidio doloso|1
+Lesiones por arma de fuego|2
+Robo a bordo de metro c/v|3
+Robo a bordo de metro s/v|4
+Robo a bordo de microbus c/v|5
+Robo a bordo de microbus s/v|6
+Robo a bordo de taxi c/v|7
+Robo a casa habitacion c/v|8
+Robo a cuentahabiente c/v|9
+Robo a negocio c/v|10
+Robo a repartidor c/v|11
+Robo a repartidor s/v|12
+Robo a transeunte c/v|13
+Robo a transeunte s/v|14
+Robo a transportista c/v|15
+Robo a transportista s/v|16
+Robo de vehiculo c/v|17
+Robo de vehiculo s/v|18
+Violacion|19
